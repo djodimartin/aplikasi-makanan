@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/cart_background.xml" value="0.3665" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/cat_background.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/cat_background2.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/cat_background3.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/cat_background4.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/cat_background5.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/ic_ceeting.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/orange_button.xml" value="0.2985" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/orange_light_baner.xml" value="0.3665" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/search_background.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/viewholder_cart.xml" value="0.3675" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/drawable/viewholder_popular.xml" value="0.3665" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/activity_cart_list.xml" value="0.22" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/activity_intro.xml" value="0.22" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/activity_show_detail.xml" value="0.25" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/viewholder_cart.xml" value="0.33" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/viewholder_category.xml" value="0.33" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/viewholder_popular.xml" value="0.1" />
+        <entry key="..\:/Dev/Android studio/Food App/app/src/main/res/layout/viewholder_populer.xml" value="0.18" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/drawable-v24/background_biru.xml" value="0.1915" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/drawable/gradieeent.xml" value="0.1105" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_cart_list.xml" value="0.3383152173913043" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_intro.xml" value="0.3383152173913043" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_login.xml" value="0.3383152173913043" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_main.xml" value="0.17098445595854922" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_profil.xml" value="0.3383152173913043" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_register.xml" value="0.3383152173913043" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/activity_show_detail.xml" value="0.2717391304347826" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/viewholder_cart.xml" value="0.2717391304347826" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/viewholder_category.xml" value="0.3383152173913043" />
+        <entry key="..\:/Tempat Codingan/nge test/Food App/app/src/main/res/layout/viewholder_populer.xml" value="0.3383152173913043" />
+        <entry key="..\:/UASSSSSSSS/TEEEEEST/nge test/Food App/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
